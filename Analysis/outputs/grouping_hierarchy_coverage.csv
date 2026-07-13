@@ -1,0 +1,4 @@
+hierarchy,n_groups,n_multi_sku_groups,row_coverage
+segment_brand_size_pack (primary),617,206,0.7236515259048971
+segment_size_pack (cross-brand),145,94,0.9685187062759809
+segment_brand_pack (cross-size),287,176,0.9311948697150968

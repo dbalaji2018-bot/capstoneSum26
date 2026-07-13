@@ -1,0 +1,4 @@
+method,own_price_elasticity,p_value,seasonality_coef
+OLS (within),-0.3180433897950795,4.139312312875417e-73,0.9353195209291525
+Robust regression - Huber's T (within),-0.7230929650125102,0.0,0.965073493986209
+Quantile regression - median (within),-0.813800607664731,0.0,0.9187580447526102

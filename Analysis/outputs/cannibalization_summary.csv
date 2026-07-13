@@ -1,2 +1,2 @@
-n_events,median_rate,iqr_low,iqr_high,pct_halo (rate<0),pct_partial_cannibalization (0<=rate<1),pct_full_or_over_cannibalization (rate>=1),total_own_lift,total_peer_net_change,aggregate_cannibalization_rate,net_group_lift
-1508,-0.09111782933714951,-11.147489542922607,0.15749315731014366,0.5928381962864722,0.20358090185676392,0.20358090185676392,870405.5519747159,4940967.8004854135,-5.676627164516228,5811373.352460129
+n_events,median_rate,iqr_low,iqr_high,pct_halo (rate<0),pct_partial_cannibalization (0<=rate<1),pct_full_or_over_cannibalization (rate>=1),pct_events_with_stockout_risk_peer,total_own_lift,total_peer_net_change,aggregate_cannibalization_rate,net_group_lift
+5342,-0.10204194930708535,-2.624656548362079,0.06694211051918673,0.60819917633845,0.23549232497192063,0.15630849868962934,0.3275926619243729,2245138.284344394,7269758.142216367,-3.2380001681451964,9514896.426560761
